@@ -1,4 +1,4 @@
-# Wireshark Packet Analysis
+# Wireshark Packet statistics
 
 This Python script reads a Wireshark pcapng file and extracts statistics from the packet data. The script uses the `pyshark` library to parse the pcapng file, and `pandas` and `scipy` for data manipulation and statistical calculations.
 
